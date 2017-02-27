@@ -16,7 +16,8 @@ works with the free
 dependencies for GeoIP2 from their release page 
 [the releases page](https://github.com/maxmind/GeoIP2-php/releases).
 
-Place it inside  ```application/vendor``` folder
+Place it inside  ```application/vendor/geo/``` folder or any other folder you wish
+Make sure you update your database path in the library if you decide to place it else where
  
 2.Download the City Database for free from here 
 [GeoLite2 databases](http://dev.maxmind.com/geoip/geoip2/geolite2/).
