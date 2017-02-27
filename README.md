@@ -62,12 +62,7 @@ or you can pass in any IP
 This code requires PHP 5.3 or greater. Older versions of PHP are not
 supported. 
  
-## Side Note
-
-If you find this useful, 
-Care to try <a href="https://play.google.com/store/apps/details?id=com.fadsel.stickybubble">StickyBubble</a> On Android
-<br/>
-<img src="https://raw.githubusercontent.com/fadsel/Read-CSV/master/deneee.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/fadsel/Read-CSV/master/sticky-bubble-cover2.jpg" width="700"/>
 
 ## License
 This software is Copyright (c) 2017 by Safi Cloud 
