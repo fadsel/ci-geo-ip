@@ -61,8 +61,17 @@ or you can pass in any IP
 
 This code requires PHP 5.3 or greater. Older versions of PHP are not
 supported. 
+ 
+## Side Note
 
-## Copyright and License ##
+If you find this useful, 
+Care to try <a href="https://play.google.com/store/apps/details?id=com.fadsel.stickybubble">StickyBubble</a> On Android
+<br/>
+<img src="https://raw.githubusercontent.com/fadsel/Read-CSV/master/deneee.jpg" width="300"/>
 
-This software is Copyright (c) 2017 by Yote Yote
+## License
+This software is Copyright (c) 2017 by Safi Cloud 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">CI GEO IP2</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://saficloud.com" property="cc:attributionName" rel="cc:attributionURL">Safi Cloud</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://saficloud.com/legal" rel="cc:morePermissions">saficloud.com/legal</a>.
+
+
 
