@@ -11,14 +11,14 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
  * https://github.com/fadsel/ci-geo-ip/
  */
 
-require APPPATH.'vendor/geoip2.phar';
+require APPPATH.'vendor/geo/geoip2.phar';
 use GeoIp2\Database\Reader;
 
 class CI_GeoIp2 {
 
     protected $record;
     protected $ip;
-    protected $database_path = 'node/maxmind/GeoLite2-City.mmdb';
+    protected $database_path = 'vendor/geo/GeoLite2-City.mmdb'; //default
     protected $ci;
     public function __construct() {
 
