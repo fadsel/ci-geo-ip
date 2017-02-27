@@ -61,8 +61,8 @@ or you can pass in any IP
 
 This code requires PHP 5.3 or greater. Older versions of PHP are not
 supported. 
-
-Well you can also try the game below
+ 
+ <br/>
  <a href="https://play.google.com/store/apps/details?id=com.fadsel.stickybubble">
 <img src="https://raw.githubusercontent.com/fadsel/Read-CSV/master/sticky-bubble-cover2.jpg" style="100%"/>
 </a>
